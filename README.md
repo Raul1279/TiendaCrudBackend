@@ -59,4 +59,4 @@ CREATE TABLE tblArticuloTienda (
 
 
 **************STORED PROCEDURES ARE ON THE ATTACHED DOCUMENTS****************************
-
+STORED PROCEDDURES.winrar
