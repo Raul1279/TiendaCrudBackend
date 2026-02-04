@@ -1,6 +1,6 @@
------------------------DATABASE SCRIPTS-------------------------------
+-----------------------DATABASE SCRIPTS-------------------------
 
-*******SCRIPT TO CREATE TABLES IN DATABASE**********************
+***SCRIPT TO CREATE TABLES IN DATABASE******
 
 CREATE TABLE tblCliente (
     clienteId INT IDENTITY PRIMARY KEY,
@@ -58,5 +58,7 @@ CREATE TABLE tblArticuloTienda (
 );
 
 
-**************STORED PROCEDURES ARE ON THE ATTACHED DOCUMENTS****************************
+********STORED PROCEDURES ARE ON THE ATTACHED DOCUMENTS*****************
+
+
 STORED PROCEDDURES.winrar
